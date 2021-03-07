@@ -1,0 +1,195 @@
+body {
+  background-color: rgba(255, 255, 255, 0.342);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 20px;
+  color: rgb(1, 1, 2);
+}
+
+.headerh1 {
+  display: block;
+  text-align: center;
+  padding: 8px;
+  margin: auto;
+  background-color: #ebf746;
+}
+
+header {
+  text-align: center;
+}
+
+.menu {
+  display: block;
+  background-color: #333;
+}
+
+ul {
+  display: inline-block;
+  list-style-type: none;
+  margin: 0 auto;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+  width: 200px;
+  margin: 0;
+  padding: 0;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+header {
+  background-image: url(talking_heads-speaking_in_tongues.png);
+  background-size: cover;
+  background-position: center;
+}
+.head {
+  background-color: #000000c5;
+  margin-left: 120px;
+  margin-right: 120px;
+  background-position: center;
+  padding: 60px;
+  text-align: left;
+
+  color: white;
+}
+
+.titleheader {
+  font-size: 40px;
+  color: yellow;
+  text-transform: uppercase;
+}
+
+.titleheader2 {
+  text-align: inherit;
+  text-transform: uppercase;
+}
+
+.imgdisc {
+  margin-top: -2%;
+  position: relative;
+  float: right;
+  max-width: 260px;
+  max-height: 260px;
+}
+
+article {
+  margin-left: 110px;
+  margin-right: 110px;
+}
+.box {
+  background-color: #333;
+  float: right;
+  max-width: 380px;
+  max-height: 900px;
+  justify-content: space-between;
+}
+.boxh2 {
+  position: relative;
+  background-color: #ebf746;
+  text-align: left;
+  margin: auto;
+  padding: 14px 16px;
+  text-transform: uppercase;
+}
+
+.boxp {
+  margin-inline: 30px;
+  color: aliceblue;
+}
+blockquote {
+  color: aliceblue;
+  margin-left: 80px;
+}
+.line {
+  border-bottom: 5px solid #ffffff;
+  margin-inline: 30px;
+  display: block;
+}
+.video1 {
+  padding: 20px 40px;
+  align-items: center;
+}
+
+.vertical-line {
+  position: absolute;
+  margin-top: 30px;
+  border-left: 5px solid #ebf746;
+  height: 200px;
+}
+
+.verse-title {
+  position: relative;
+  margin-top: 40px;
+  font-weight: normal;
+  background-color: #ebf746;
+  max-width: 150px;
+  max-height: 100px;
+  text-align: center;
+  padding: 14px 16px;
+  text-transform: uppercase;
+}
+
+.verse {
+  margin: 20px;
+  max-width: 500px;
+  max-height: 200px;
+}
+
+.vertical-line1 {
+  position: absolute;
+  margin-left: 40px;
+  margin-top: 30px;
+  border-left: 5px solid #ebf746;
+  height: 180px;
+}
+
+.chorus-title {
+  position: relative;
+  margin-top: 40px;
+  margin-left: 40px;
+  font-weight: normal;
+  background-color: #ebf746;
+  max-width: 150px;
+  max-height: 100px;
+  text-align: center;
+  padding: 14px 16px;
+  text-transform: uppercase;
+}
+.vertical-line2 {
+  position: absolute;
+  margin-left: 40px;
+  margin-top: 30px;
+  border-left: 5px solid #ebf746;
+  height: 250px;
+}
+.chorus {
+  position: relative;
+  margin-left: 60px;
+  max-width: 500px;
+  max-height: 200px;
+}
+
+.line-footer {
+  border-bottom: 5px solid #ebf746;
+  margin-top: 80px;
+  display: block;
+}
+
+cite {
+  position: relative;
+  margin-left: 50px;
+  margin-right: 50px;
+}
